@@ -1,2 +1,3 @@
 # twitter-scraper-by-snscrape
-Scraping tweets by ids.
+* Scraping historical tweets by ids
+* Saving the contents into CSVs
